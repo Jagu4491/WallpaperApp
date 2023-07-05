@@ -6,7 +6,7 @@ class wallpage3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.green.shade400,
+        backgroundColor: Colors.green.shade400 ,
         title: Text(
           'Wallpage3',
           style: TextStyle(
