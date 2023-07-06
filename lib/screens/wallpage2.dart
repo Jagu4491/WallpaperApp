@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wallpaper_app/wallpage3.dart';
+import 'package:wallpaper_app/screens/wallpage3.dart';
 
 class wallpage2 extends StatelessWidget {
   var name;
